@@ -14,7 +14,7 @@ Desarrollador Full-Stack y Analista de Datos de Lima, Perú 🇵🇪. Me especia
 
 - 🔧 **DevOps e Infraestructura:** Gestiono la implementación y el mantenimiento de servicios en servidores Linux. Utilizo **Docker** para la contenedorización de aplicaciones y herramientas como **Cloudflare y Coolify** para la orquestación, seguridad y entrega continua.
 
-- 🧠 **Análisis de Datos e IA:** Exploro y aplico modelos de Machine Learning para extraer valor de los datos. Trabajo en la integración de soluciones inteligentes en proyectos comerciales para mejorar la toma de decisiones [memory:19].
+- 🧠 **Análisis de Datos e IA:** Exploro y aplico modelos de Machine Learning para extraer valor de los datos. Trabajo en la integración de soluciones inteligentes en proyectos comerciales para mejorar la toma de decisiones.
 
 ---
 
