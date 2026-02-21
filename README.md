@@ -10,9 +10,9 @@ Desarrollador Full-Stack y Analista de Datos de Lima, Perú 🇵🇪. Me especia
 
 ### 🚀 Mis Áreas de Enfoque
 
-- 💻 **Desarrollo Full-Stack:** Construyo y despliego aplicaciones web robustas y escalables. Tengo experiencia sólida con ecosistemas como **.NET (C#)** y **JavaScript (Node.js, React, Angular)**, creando desde APIs REST hasta interfaces de usuario interactivas [memory:12].
+- 💻 **Desarrollo Full-Stack:** Construyo y despliego aplicaciones web robustas y escalables. Tengo experiencia sólida con ecosistemas como **.NET (C#)** y **JavaScript (Node.js, React, Angular)**, creando desde APIs REST hasta interfaces de usuario interactivas.
 
-- 🔧 **DevOps e Infraestructura:** Gestiono la implementación y el mantenimiento de servicios en servidores Linux. Utilizo **Docker** para la contenedorización de aplicaciones y herramientas como **Cloudflare y Coolify** para la orquestación, seguridad y entrega continua [memory:13][memory:17][memory:22].
+- 🔧 **DevOps e Infraestructura:** Gestiono la implementación y el mantenimiento de servicios en servidores Linux. Utilizo **Docker** para la contenedorización de aplicaciones y herramientas como **Cloudflare y Coolify** para la orquestación, seguridad y entrega continua.
 
 - 🧠 **Análisis de Datos e IA:** Exploro y aplico modelos de Machine Learning para extraer valor de los datos. Trabajo en la integración de soluciones inteligentes en proyectos comerciales para mejorar la toma de decisiones [memory:19].
 
