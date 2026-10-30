@@ -83,7 +83,6 @@ Me especializo en la orquestación de agentes autónomos bajo **Spec-Driven Deve
 - 🛡️ **Infraestructura Bare-Metal, DevOps & QA:** Orquestación de contenedores con **Docker**, hardening de servidores Linux (SSH, UFW, Fail2ban), automatización CI/CD con **GitHub Actions** y testing End-to-End automatizado con **Playwright y Cypress**.
 
 ---
-
 ### 🛠️ Stack Tecnológico
 
 <div align="left">
@@ -95,7 +94,7 @@ Me especializo en la orquestación de agentes autónomos bajo **Spec-Driven Deve
 
 <div align="left">
   <p><strong>Infraestructura, Cloud, Datos & QA:</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,supabase,cloudflare,azure,vercel,grafana,git,githubactions,playwright,cypress" alt="DevOps and Cloud Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,supabase,cloudflare,azure,vercel,grafana,git,githubactions,cypress" alt="DevOps and Cloud Stack" />
 </div>
 
 ---
@@ -103,6 +102,10 @@ Me especializo en la orquestación de agentes autónomos bajo **Spec-Driven Deve
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xangel0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xangel0s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Xangel0s&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xangel0s&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xangel0s&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
